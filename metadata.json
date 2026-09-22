@@ -1,0 +1,6 @@
+{
+  "name": "GameRoom Sync & Match Hub",
+  "description": "Community platform for gamers to host and join custom rooms, select slots in real-time, manage host controls, and submit match results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
